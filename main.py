@@ -1,7 +1,13 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-
+#early layers learn abstract features
+#middle layers are nonlinear transformers
+#late layers learn specific features
+#Gaussion (GELU) used bc relu is not smooth and can cause issues with optimization
+#cons
+#might overfit, needs alot alot of data, slo to train
+#layers: 256, 512, 1024, 1024, 512, 256
 class CompensatorNet(nn.Module):
     def __init__(self, input_dim):
         super(CompensatorNet, self).__init__()
