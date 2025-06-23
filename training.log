@@ -1,0 +1,37 @@
+2025-06-22 20:17:44,666 INFO: [DATASET] X shape: (260863, 70), Y shape: (260863, 26)
+2025-06-22 20:17:44,704 INFO: [DEVICE] Using device: cuda
+2025-06-22 20:17:58,204 INFO: Epoch 0: Train Loss 0.975450 | Val Loss 0.964775 | LR 5.00e-05
+2025-06-22 20:17:58,225 INFO: [MODEL] Saved new best model.
+2025-06-22 20:18:08,680 INFO: Epoch 1: Train Loss 0.968912 | Val Loss 0.967595 | LR 5.00e-05
+2025-06-22 20:18:18,731 INFO: Epoch 2: Train Loss 0.967978 | Val Loss 0.969345 | LR 5.00e-05
+2025-06-22 20:18:29,647 INFO: Epoch 3: Train Loss 0.967406 | Val Loss 0.966511 | LR 5.00e-05
+2025-06-22 20:18:39,485 INFO: Epoch 4: Train Loss 0.966936 | Val Loss 0.959231 | LR 5.00e-05
+2025-06-22 20:18:39,506 INFO: [MODEL] Saved new best model.
+2025-06-22 20:18:50,441 INFO: Epoch 5: Train Loss 0.966467 | Val Loss 0.964289 | LR 5.00e-05
+2025-06-22 20:19:01,534 INFO: Epoch 6: Train Loss 0.965980 | Val Loss 0.966427 | LR 5.00e-05
+2025-06-22 20:19:12,890 INFO: Epoch 7: Train Loss 0.965718 | Val Loss 0.958646 | LR 5.00e-05
+2025-06-22 20:19:12,909 INFO: [MODEL] Saved new best model.
+2025-06-22 20:19:23,677 INFO: Epoch 8: Train Loss 0.965290 | Val Loss 0.958167 | LR 5.00e-05
+2025-06-22 20:19:23,697 INFO: [MODEL] Saved new best model.
+2025-06-22 20:19:35,808 INFO: Epoch 9: Train Loss 0.964786 | Val Loss 0.960335 | LR 5.00e-05
+2025-06-22 20:19:47,746 INFO: Epoch 10: Train Loss 0.964033 | Val Loss 0.962319 | LR 5.00e-05
+2025-06-22 20:19:59,570 INFO: Epoch 11: Train Loss 0.962743 | Val Loss 0.963265 | LR 5.00e-05
+2025-06-22 20:20:10,727 INFO: Epoch 12: Train Loss 0.961950 | Val Loss 0.965116 | LR 5.00e-05
+2025-06-22 20:20:21,626 INFO: Epoch 13: Train Loss 0.961005 | Val Loss 0.966588 | LR 5.00e-05
+2025-06-22 20:20:32,355 INFO: Epoch 14: Train Loss 0.960763 | Val Loss 0.966370 | LR 2.50e-05
+2025-06-22 20:20:43,102 INFO: Epoch 15: Train Loss 0.960686 | Val Loss 0.967682 | LR 2.50e-05
+2025-06-22 20:20:54,272 INFO: Epoch 16: Train Loss 0.960952 | Val Loss 0.967367 | LR 2.50e-05
+2025-06-22 20:21:04,584 INFO: Epoch 17: Train Loss 0.961052 | Val Loss 0.968130 | LR 2.50e-05
+2025-06-22 20:21:16,015 INFO: Epoch 18: Train Loss 0.961231 | Val Loss 0.967586 | LR 2.50e-05
+2025-06-22 20:21:27,704 INFO: Epoch 19: Train Loss 0.961263 | Val Loss 0.969489 | LR 2.50e-05
+2025-06-22 20:21:38,855 INFO: Epoch 20: Train Loss 0.961773 | Val Loss 0.968283 | LR 1.25e-05
+2025-06-22 20:21:49,358 INFO: Epoch 21: Train Loss 0.961667 | Val Loss 0.968824 | LR 1.25e-05
+2025-06-22 20:22:00,392 INFO: Epoch 22: Train Loss 0.962190 | Val Loss 0.968940 | LR 1.25e-05
+2025-06-22 20:22:11,372 INFO: Epoch 23: Train Loss 0.962032 | Val Loss 0.969226 | LR 1.25e-05
+2025-06-22 20:22:22,619 INFO: Epoch 24: Train Loss 0.962012 | Val Loss 0.969889 | LR 1.25e-05
+2025-06-22 20:22:34,068 INFO: Epoch 25: Train Loss 0.962052 | Val Loss 0.968828 | LR 1.25e-05
+2025-06-22 20:22:45,961 INFO: Epoch 26: Train Loss 0.962336 | Val Loss 0.969762 | LR 6.25e-06
+2025-06-22 20:22:55,878 INFO: Epoch 27: Train Loss 0.957717 | Val Loss 0.969013 | LR 6.25e-06
+2025-06-22 20:23:06,138 INFO: Epoch 28: Train Loss 0.962082 | Val Loss 0.970516 | LR 6.25e-06
+2025-06-22 20:23:06,138 INFO: [EARLY STOP] No improvement, stopping training.
+2025-06-22 20:23:07,323 INFO: [PLOT] Saved prediction vs. true plots for first 5 output channels.
